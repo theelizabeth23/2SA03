@@ -18,6 +18,10 @@
   font-size: calc(10px + 2vmin);
   color: white;
 }
+.activeCard {
+  color: red;
+  background: pink;
+ }
 
 .App-link {
   color: #61dafb;
